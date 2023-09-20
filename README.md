@@ -1,52 +1,63 @@
-# Ball Sort
+Human Anatomy VR
 
-**BALL SORT GAME PROJECT MADE AS OUR PRODUCT FOR XREV STUDIO**
+Explore the intricacies of the human body like never before with Human Anatomy VR! Immerse yourself in a cutting-edge virtual reality experience brought to you by AnatomyVR Studio.
 
-![Ball Sort Game Banner](images/image1.png)
+![Human Anatomy VR Banner](banner-image-url-here)
 
-## About Ball Sort
+## Table of Contents
+1. [About the Project](#about-the-project)
+2. [Experience Details](#experience-details)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Contribution](#contribution)
+6. [License](#license)
+7. [Contact](#contact)
+8. [Acknowledgements](#acknowledgements)
 
-Immerse yourself in the world of Ball Sort Puzzle Color Tubes and put your logical thinking and color sorting skills to the test. Whether you're looking for a quick mental workout or a relaxing way to unwind, this unique color sorting game is the perfect choice. Play anytime, anywhere, and enjoy a day filled with colorful ball sorting fun.
+## About the Project
+Human Anatomy VR is not just an educational experience; it's a revolutionary leap in the field of virtual reality. Prepare to journey through the human body's intricacies and learn about anatomy in a way that was previously unimaginable. From exploring organs to understanding physiological processes, every detail is meticulously recreated to provide an unparalleled learning experience.
 
-## Details
+### Experience Details
+**Description**
+- Interactive Learning: Dive into an interactive learning experience with detailed 3D models of human anatomy.
+- Realistic Physiology: Explore the human body's functions with lifelike simulations and dynamic visuals.
+- Educational Environments: Immerse yourself in realistic anatomical locations and scenarios.
 
-### Description
+**Key Features**
+- 360° VR Anatomy: A complete immersion into the world of human anatomy using 360° VR technology.
+- High-Resolution Graphics: Enjoy crystal-clear visuals that bring the human body to life.
+- Educational Journey: Embark on a journey from basic anatomy to advanced medical knowledge.
 
-- Dive into the world of color sorting games with Ball Sort Puzzle Color Tubes.
-- Test your color sorting skills in this engaging and mind-bending ball sorting puzzle.
-- Experience the soothing effect of this game, perfect for relieving daily stress.
-- Easy to play, challenging to master - can you become the ultimate champion?
-- Strategically tap to move balls between bottles until they're perfectly sorted by color.
-- Unlock the excitement of becoming a Ball Sort Puzzle Color Tubes expert.
+**Gallery**
+![Human Anatomy VR Screenshot 1](screenshot-1-url-here)
+![Human Anatomy VR Screenshot 2](screenshot-2-url-here)
 
-### Gameplay
+## Installation
+### Requirements
+- VR headset (e.g., Oculus Rift, HTC Vive)
+- Compatible PC or VR-ready device
 
-- Pick up the top ball by tapping any bottle, then transfer it to another bottle.
-- Balls can only be stacked in a bottle with the same color on top and enough space.
-- Victory awaits when all balls of the same color are sorted into a single bottle.
-- Each bottle can hold a maximum of 4 balls.
+### Setup
+1. Download the Human Anatomy VR setup file from the releases section.
+2. Install the experience following the on-screen instructions.
 
-### Key Features
+## Usage
+Here's how to get started with Human Anatomy VR:
+1. Launch the experience from your VR platform or desktop.
+2. Navigate through the menu to select the anatomical area or topic you want to explore.
+3. Interact with the virtual body and learn about human anatomy through immersive simulations.
 
-- Intuitive one-finger control: Simply tap to sort the balls.
-- Restart your current level anytime, giving you the chance to perfect your strategy.
-- Add an extra bottle by clicking "Add" to enhance your sorting capabilities.
-- Enjoy a penalty-free and time-limit-free gaming experience.
+## Contribution
+We welcome contributions from the educational and VR community. If you'd like to contribute, please fork the repository and create a new pull request.
 
-## Gallery
+## License
+Distributed under the [XYZ License](LICENSE). See [LICENSE](LICENSE) for more information.
 
-![Ball Sort Game Screenshot 1](images/image2.png)
-![Ball Sort Game Screenshot 2](images/image3.png)
+## Contact
+AnatomyVR Studio
+- Email: contact@anatomyvrstudio.com
+- Twitter: [@AnatomyVRStudio](https://twitter.com/AnatomyVRStudio)
 
-<!--## Video Showcase
-
-<a href="https://www.youtube.com/watch?v=drg9xEKpbow" target="_blank"><img src="https://img.youtube.com/vi/drg9xEKpbow/0.jpg" 
-alt="Ball Sort Game Video 1" width="240" height="180" border="10" /></a>  -->
-
-## Links
-
-- [Playstore](https://play.google.com/store/apps/details?id=com.zuhad.ballsort.puzzle.color.tubes)
-
----
-
-© XRev Studio. All rights reserved.
+## Acknowledgements
+- VR Development Framework
+- 3D Anatomy Model Providers
