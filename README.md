@@ -1,10 +1,9 @@
-Certainly, I understand that you want to change the information to be related to "Human Anatomy VR." Here's a portfolio of a virtual reality application focused on human anatomy:
 
----
+
 
 # Human Anatomy VR
 
-![Human Anatomy VR Banner](images/Screenshot (102).png)
+![Human Anatomy VR Banner](images/(102).png)
 
 **Explore the intricacies of the human body in a groundbreaking virtual reality experience with Human Anatomy VR! Dive into the world of biology and medicine like never before, crafted by BioTechVR Studios.**
 
@@ -39,8 +38,8 @@ Human Anatomy VR is not just an application but a revolutionary tool for learnin
 
 ### Gallery
 
-![Anatomy VR Preview 1](Screenshot(103).png)
-![Anatomy VR Preview 2](Screenshort/(104).png)
+![Anatomy VR Preview 1](images/anatomyvr1.png)
+![Anatomy VR Preview 2](images/anatomyvr2.png)
 
 ## 💻 Installation
 
@@ -82,4 +81,6 @@ BioTechVR Studios
 - [Medical Experts and Advisors](#)
 
 ---
+
+This portfolio provides information about a virtual reality application focused on human anatomy. You can customize it further with additional details, such as technical specifications, pricing, and user testimonials, as needed.
 
