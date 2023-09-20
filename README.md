@@ -4,7 +4,7 @@ Certainly, I understand that you want to change the information to be related to
 
 # Human Anatomy VR
 
-![Human Anatomy VR Banner](Screenshot/(102).png)
+![Human Anatomy VR Banner](images/Screenshot (102).png)
 
 **Explore the intricacies of the human body in a groundbreaking virtual reality experience with Human Anatomy VR! Dive into the world of biology and medicine like never before, crafted by BioTechVR Studios.**
 
